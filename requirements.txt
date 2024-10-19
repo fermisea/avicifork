@@ -1,6 +1,6 @@
 jax==0.4.34
 jaxlib==0.4.34
-tensorflow==2.9.1
+tensorflow
 imageio
 matplotlib
 numpy
@@ -11,7 +11,7 @@ tqdm
 dm-haiku>=0.0.8
 psutil
 optax
-pyarrow==7.0.0
+pyarrow
 tensorflow-datasets==4.3.0
 deepdiff
 huggingface-hub
