@@ -1,8 +1,7 @@
-jax>=0.3.17
-jaxlib>=0.3.14
+jax==0.4.34
+jaxlib==0.4.34
 tensorflow==2.9.1
 imageio
-jupyter
 matplotlib
 numpy
 pandas
